@@ -71,23 +71,25 @@ These topics will help you build **real-world Python applications** and prepare 
 Each folder contains `.py` files focused on a specific topic:
 
 ### ✅ Key Concepts Included:
-- `test_basic`
-- `type_conversion`
 - `booleans`
+- `common_list_patterns`
+- `conditional_logic`
+- `dictionaries`
+- `dictionary_method`
+- `if....elif...else`
 - `in_built_funtions`
 - `list`
 - `list_method`
 - `list_unpacking`
-- `common_list_patterns`
 - `matrix`
-- `dictionaries`
-- `dictionary_method`
-- `tuples`
-- `tuples_method`
 - `set`
 - `set_method`
+- `ternary_operator`
+- `test_basic`
+- `tuples_method`
+- `tuples`
+- `type_conversion`
 - `what_is_actually_none`
-
 ---
 
 ## 🚀 How to Use
