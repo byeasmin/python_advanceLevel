@@ -97,11 +97,11 @@ Each folder contains `.py` files focused on a specific topic:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Python-Practice.git
+git clone https://github.com/your-username/python_advanceLevel.git
 ```
 ### 2. Open any topic folder
 ```bash
-cd python_programming_beginner/list
+cd python_programming_advanceLevel/list
 ```
 
 ### 3. Run the Python file
