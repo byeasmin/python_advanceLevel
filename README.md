@@ -1,4 +1,4 @@
-# 🐍 Python Programming Practice: Beginner to Mastery
+# 🐍 Python Programming Practice: Beginner to Mastery 🐍
 
 This repository dives into **beginner to advanced concepts** of Python — from the **very basics** like variables and loops to more **advanced topics** such as **Object-Oriented Programming (OOP)**, **exception handling**, and **file operations**.
 
