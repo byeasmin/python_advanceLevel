@@ -71,24 +71,39 @@ These topics will help you build **real-world Python applications** and prepare 
 Each folder contains `.py` files focused on a specific topic:
 
 ### ✅ Key Concepts Included:
+- `args_kwargs`
 - `booleans`
+- `break_continue_pass`
+- `clean_code`
 - `common_list_patterns`
 - `conditional_logic`
+- `developer_fundamentals`
 - `dictionaries`
 - `dictionary_method`
+- `docstrings`
+- `enumerate`
+- `find_duplicates`
+- `first_GUI`
+- `function`
 - `if....elif...else`
 - `in_built_funtions`
+- `keywords`
 - `list`
 - `list_method`
 - `list_unpacking`
+- `local_nonlocal_global`
+- `loop`
 - `matrix`
+- `range`
+- `scope`
 - `set`
 - `set_method`
 - `ternary_operator`
 - `test_basic`
-- `tuples_method`
+- `tuple_method`
 - `tuples`
 - `type_conversion`
+- `walrus_operator`
 - `what_is_actually_none`
 ---
 

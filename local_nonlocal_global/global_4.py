@@ -10,3 +10,10 @@ print(count(count(count(total))))
 
 
 
+
+
+'''
+Output : 
+1
+3
+'''

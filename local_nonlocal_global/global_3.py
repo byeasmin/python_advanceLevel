@@ -1,6 +1,6 @@
 total=0
 def count():
-    total=0
+    global total
     total+=1
     return total
 count()
@@ -9,3 +9,8 @@ count()
 print(count())
 
 
+
+'''
+Output : 
+4
+'''
