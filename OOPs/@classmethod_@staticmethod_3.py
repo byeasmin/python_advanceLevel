@@ -24,7 +24,6 @@ class playerCharacter:
 
 # player1=playerCharacter("benin", 22)
 player3 = playerCharacter.adding_things(12,11)
-print(player3.age)
 
 
 
